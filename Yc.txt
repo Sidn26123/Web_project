@@ -1,9 +1,0 @@
-Tim so lon nhat trong 3 so da cho
-Tim tong so chan, le trong mang da cho
-Tim tong cua cac phan tu trong mang da cho
-Tim tong N so nguyen dau tien
-Kiem tra 1 so co ton tai trong mang hay khong
-Nhan 2 ma tran nxn
-Selection sort
-Insert sort
-Bubble sort
